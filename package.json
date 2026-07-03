@@ -1,0 +1,22 @@
+{
+  "name": "playwright-saucedemo",
+  "version": "1.0.0",
+  "description": "Playwright automation practice project for the SauceDemo website using JavaScript and end-to-end testing.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamilaHORBIT/Playwright-SauceDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamilaHORBIT/Playwright-SauceDemo/issues"
+  },
+  "homepage": "https://github.com/JamilaHORBIT/Playwright-SauceDemo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.0"
+  }
+}
